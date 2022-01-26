@@ -11,5 +11,5 @@ $ pip install -r requirements.txt
 ### Run App
 Open a new terminal
 ```
-$ python main.py
+$ python src/app.py
 ```
